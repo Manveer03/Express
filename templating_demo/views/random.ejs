@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Your Random Number </title>
+</head>
+<body>
+    <h1> Your Random Number is : <%= num %></h1>
+    <!-- ESJ Conditional Statements -->
+     <%if (num % 2 ===0){ %>
+        <h2> That is an even number !!!</h2>
+     <%} else{ %>
+        <h2> That is a odd number</h2>
+    <% } %>
+    <!-- Ohter way of doing same  -->
+
+    <h3><%= num%2 === 0 ? 'EVEN' : 'ODD' %> </h3>
+</body>
+</html>

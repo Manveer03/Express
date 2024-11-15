@@ -1,0 +1,70 @@
+{
+    "soccer": {
+      "name": "Soccer",
+      "subscribers": 150000,
+      "description": "The football subreddit. News, results, analysis, and discussion about the beautiful game.",
+      "posts": [
+        {
+          "title": "Marten de Roon to make pizza for more than 1,000 people.",
+          "author": "joeextreme"
+        },
+        {
+          "title": "Stephan Lichtsteiner has retired from professional football.",
+          "author": "odd person"
+        },
+        {
+          "title": "OFFICIAL: Dani Parejo signs for Villareal.",
+          "author": "joeextreme"
+        },
+        {
+          "title": "Lionel Messi scores his 800th career goal.",
+          "author": "sportsfan101"
+        },
+        {
+          "title": "Cristiano Ronaldo becomes the top scorer in football history.",
+          "author": "cr7legend"
+        },
+        {
+          "title": "Erling Haaland breaks the Premier League goal record in a single season.",
+          "author": "goalgetter21"
+        },
+        {
+          "title": "Analysis: Why Pep Guardiola's tactics dominate modern football.",
+          "author": "tacticswizard",
+          "img" : "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "title": "Women's World Cup 2023: A historic tournament for equality in sports.",
+          "author": "fairplay2023",
+          "img":"https://picsum.photos/200/300?grayscale"
+        }
+      ]
+    },
+    "person": {
+    "name": "John",
+    "subscribers": 2000,
+    "description": "A passionate football enthusiast who shares game analysis, match reviews, and tactics.",
+    "posts": [
+      {
+        "title": "Top 5 moments in Champions League history.",
+        "author": "johndoe"
+      },
+      {
+        "title": "How to analyze football tactics like a pro.",
+        "author": "johndoe"
+      },
+      {
+        "title": "10 greatest football players of all time.",
+        "author": "johndoe"
+      },
+      {
+        "title": "Exploring the rise of women's football in Europe.",
+        "author": "johndoe"
+      },
+      {
+        "title": "Why data analytics is transforming football coaching.",
+        "author": "johndoe"
+      }
+    ]
+  }
+}
